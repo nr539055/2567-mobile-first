@@ -1,0 +1,146 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/normalize.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<title>untitled</title>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<div class="row">
+		<header>
+			<figure class="col-1-2">
+				<img src="img/header-logo.png" alt="Studio Name"/>
+			</figure>
+			<nav class="col-1-2">
+				<ul>
+					<li>Home</li>
+					<li>Work</li>
+					<li>About</li>
+				</ul>
+			</nav>
+		</header>	
+	</div>
+	
+	<div class="row">
+		<div class="col-1-2">
+			<header>
+				<h1>We Design Things</h1>
+			</header>
+			<p>Lorem ipsum dolor sit amet, indoctum dissentiet eam ne. Eum omnium docendi cu. Aliquid delenit an pri, ad mea nostrud nominavi menandri.</p>		
+			<a href="#">Hire Us</a>
+			<a href="#">View Work</a>
+		</div>
+	</div>	
+
+	<div class="row">
+		<header class="col-1">
+			<h2>Work</h2>
+		</header>		
+		<div class="col-1-4">
+			<header>
+				<h3>Print Design</h3>
+			</header>
+			<p>Nam purto solet eu, vero mediocrem hendrerit ad ius. </p>
+		</div>
+		<div class="col-1-4">
+			<header>
+				<h3>App Design</h3>
+			</header>
+			<p>Exerci antiopam constituam per ex, pro odio enim te, ut eam quidam docendi ancillae. Id nisl appareat mel.</p>
+		</div>
+		<div class="col-1-4">
+			<header>
+				<h3>Interactive</h3>
+			</header>
+			<p>Vix ad posse impetus, vis id quem nobis suscipiantur. His an assum omnium periculis. </p>
+		</div>
+		<div class="col-1-4">
+			<header>
+				<h3>Branding</h3>
+			</header>
+			<p>Lorem ipsum dolor sit amet, indoctum dissentiet eam ne. Eum omnium docendi cu. </p>
+		</div>
+	</div>	
+
+	<div class="row">	
+		<header class="col-1-2">
+			<h2>Our Team</h2>
+			<p>Ea expetenda prodesset cum, tibique principes laboramus id pro. Ei dolorem facilis volutpat sed, eu pro dicta iracundia scripserit. Vel singulis posidonium ea, primis possim voluptatum ei has. Ut usu sale modus liberavisse. Eos reque mnesarchum ea, ea tamquam disputando has.</p>
+		</header>
+	</div>	
+
+	<div class="row">
+		<div class="col-1-4">
+			<img src="img/john.jpg" />
+			<header>
+				<h3>John Doe</h3>
+			</header>
+			<p>Nam purto solet eu, vero mediocrem hendrerit ad ius. </p>
+			<ul>
+				<li><a href="http://www.facebook.com"><img src="img/facebook-big.png" /></a></li>
+				<li><a href="http://www.twitter.com"><img src="img/twitter-big.png" /></a></li>
+			</ul>
+		</div>		
+		<div class="col-1-4">
+			<img src="img/jane.jpg" />
+			<header>
+				<h3>Jane Doe</h3>
+			</header>
+			<p>Vix ad posse impetus, vis id quem nobis suscipiantur. His an assum omnium periculis</p>
+			<ul>
+				<li><a href="http://www.facebook.com"><img src="img/facebook-big.png" /></a></li>
+				<li><a href="http://www.twitter.com"><img src="img/twitter-big.png" /></a></li>
+			</ul>
+		</div>
+		<div class="col-1-4">
+			<img src="img/mary.jpg" />
+			<header>
+				<h3>Mary Smith</h3>
+			</header>
+			<p>Exerci antiopam constituam per ex, pro odio enim te, ut eam quidam docendi ancillae. Id nisl appareat mel.</p>
+			<ul>
+				<li><a href="http://www.facebook.com"><img src="img/facebook-big.png" /></a></li>
+				<li><a href="http://www.twitter.com"><img src="img/twitter-big.png" /></a></li>
+			</ul>
+		</div>
+		<div class="col-1-4">
+			<img src="img/jon.jpg" />
+			<header>
+				<h3>Jon Smith</h3>
+			</header>
+			<p>Lorem ipsum dolor sit amet, indoctum dissentiet eam ne. Eum omnium docendi cu. </p>
+			<ul>
+				<li><a href="http://www.facebook.com"><img src="img/facebook-big.png" /></a></li>
+				<li><a href="http://www.twitter.com"><img src="img/twitter-big.png" /></a></li>
+			</ul>
+		</div>
+	</div>	
+
+	<footer class="row">
+		<div class="col-1-3">
+			<img src="img/footer-logo.png">
+		</div>		
+		<nav class="col-1-3">
+			<ul>
+				<li>Home</li>
+				<li>Work</li>
+				<li>About</li>
+			</ul>
+		</nav>
+		<div class="col-1-3">
+			<h3>Contact</h3>
+			<address>6041 Old York Road Dekalb, IL 60115</address>
+			<ul>
+				<li><a href="http://www.facebook.com"><img src="img/facebook-sm.png" /></a></li>
+				<li><a href="http://www.twitter.com"><img src="img/twitter-sm.png" /></a></li>
+			</ul>
+		</div>
+	</footer>
+
+	
